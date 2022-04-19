@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@angular-devkit/build-angular": "^13.3.2",
+    "@angular/core": "^13.3.2",
+    "@angular/forms": "^13.3.2",
+    "@angular/platform-browser-dynamic": "^13.3.2",
+    "angularjs": "^0.0.1"
+  }
+}

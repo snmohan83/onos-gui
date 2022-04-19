@@ -12,7 +12,7 @@ include ./build/build-tools/make/onf-common.mk
 
 build: # @HELP build the Web GUI and run all validations (default)
 build:
-	cd web/onos-gui && ng build --prod
+	cd web/onos-gui && ng build --configuration
 
 test: # @HELP run the unit tests and source code validation
 test: deps build lint license
